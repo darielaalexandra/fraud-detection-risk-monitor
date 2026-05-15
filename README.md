@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.x-orange)
-![Looker Studio](https://img.shields.io/badge/Dashboard-Looker%20Studio-brightgreen)
+![Data Studio](https://img.shields.io/badge/Dashboard-Looker%20Studio-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF)
 
 End-to-end fraud detection project combining machine learning and business intelligence to build an actionable risk monitoring system for a financial institution.
